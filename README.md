@@ -42,13 +42,21 @@ to read the CSV file, and `matplotlib` purely for the required plots. No `sklear
 
 ## How to run
 
-Open `PCA_Formative_51.ipynb` in Google Colab or Jupyter and run all cells
+Open `PCA_Formative_1_51.ipynb` in Google Colab or Jupyter and run all cells
 (**Runtime → Run all**). The notebook downloads its data automatically, so no manual upload is needed.
+
+## Dataset file
+
+`african_country_profile.csv` — the dataset used, filtered to the 56 African countries
+(`Country`, `Region`, and the 12 features). The original missing values (`...`, `-99`) are
+preserved, so the file still reflects the raw data before imputation. The notebook downloads the
+full source from GitHub automatically, so this CSV is included as a supporting copy of the data.
 
 ## Files
 
-- `PCA_Formative_1[51].ipynb` — the completed notebook
-- `PCA_Formative_51.pdf` — PDF export of the notebook
-- contribution sheet (PDF) — member contributions
-- `african_country_profile.csv` - dataset
+- `PCA_Formative_1_51.ipynb` — the completed notebook
+- `PCA_Formative_1_51.pdf` — PDF export of the notebook
+- `african_country_profile.csv` — the dataset (56 African countries, 14 columns, with missing values)
+- `Contribution_Sheet_Pair51.pdf` — member contributions
+- `PCA_Formative_1_Pair51_Combined.pdf` — notebook + contribution sheet merged into one PDFdataset
 - 
