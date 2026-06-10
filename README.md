@@ -47,6 +47,8 @@ Open `PCA_Formative_51.ipynb` in Google Colab or Jupyter and run all cells
 
 ## Files
 
-- `PCA_Formative_51.ipynb` — the completed notebook
+- `PCA_Formative_1[51].ipynb` — the completed notebook
 - `PCA_Formative_51.pdf` — PDF export of the notebook
 - contribution sheet (PDF) — member contributions
+- `african_country_profile.csv` - dataset
+- 
